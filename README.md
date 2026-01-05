@@ -58,10 +58,10 @@ A beautiful two-line prompt with:
 - **Dynamic spacing** - Fills space between left and right info with `─` separator
 - **Catppuccin Mocha colors** - Matches iTerm2 theme
 
-**Visual Example:**
-```
- (base)   ~/.dotfiles ──────────────────────────────── ✓  main   23:31:19
-╰─ → 
+
+```bash
+ (base)   ~/.dotfiles --------------------------------------------------------- ✓  main   00:25:38
+╰─ →
 ```
 
 ### Oh-My-Bash Integration
