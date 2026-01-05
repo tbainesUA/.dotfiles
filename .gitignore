@@ -2,3 +2,7 @@
 *.swp
 bash_profile
 bashrc
+zshrc
+zshrc.d/
+install.sh
+.vscode/
