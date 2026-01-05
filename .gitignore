@@ -6,3 +6,4 @@ zshrc
 zshrc.d/
 install.sh
 .vscode/
+tmp/
