@@ -1,4 +1,4 @@
-# .dotfiles
+# .dotfiles (further testing needed)
 
 Personal dotfiles repository for customizable shell settings and configurations.
 
